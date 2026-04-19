@@ -5,7 +5,7 @@ A place where i save all my work relate to Databases-SQL and my way to master it
 ## 📊 Platforms & Progress
 | Platform | Profile Link | Status |
 | :--- | :--- | :--- |
-| **LeetCode (SQL)** | [Insert Link](https://leetcode.com/u/GoYabai/) | 0+ Problems |
+| **LeetCode (SQL)** | [GoYabai](https://leetcode.com/u/GoYabai/) | 0+ Problems |
 | **HackerRank** | [Le Duc Huy](https://www.hackerrank.com/profile/leduchuyqazzaq) | In Progress |
 | **NeetCode** | No Link :( | 0+ Problems |
 
