@@ -4,6 +4,11 @@ CREATE TABLE employees (
     salary INT
 );
 
+COPY employees(employee_id, name, salary)
+FROM 'C:\\Project\\Database\\Calculate_Special_Bonus\\employees.csv'
+DELIMITER ','
+CSV HEADER;
+
 SELECT
     employee_id,
     CASE
