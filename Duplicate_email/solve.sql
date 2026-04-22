@@ -1,4 +1,4 @@
-DROP TABLE Person;
+DROP TABLE IF EXISTS ten_bang_cu;
 
 
 CREATE TABLE Person (
